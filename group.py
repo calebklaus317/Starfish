@@ -12,10 +12,10 @@ def calebK():
         print(name , year , major , hobbies , grewUp , interesting)
 
 def charlesW():
-        name = "My name is Charles Werk"
-        year = "1998 "
-        major = "CSCI"
-        hobbies = ""
+        name = "My name is Charles Werk\n"
+        year = "1998\n"
+        major = "My major is CSCI\n"
+        hobbies = "I enjoy several hobbies"
         grewUp = ""
         interesting = ""
         print(name , year , major , hobbies , grewUp , interesting)
