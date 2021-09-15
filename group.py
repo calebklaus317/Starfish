@@ -1,10 +1,13 @@
-def Groupinfo(name, year, major, hobbies, state, groupplace)
-        print("fGroup member {groupplace}", + name)
+def main():
 
-    if __name__ = "__main__":
-        main()
+    def charlesW(name, year, major, hobbies, grewUp, interesting):
+            name = "hello"
+            year = ""
+            major = ""
+            hobbies = ""
+            grewUp = ""
+            interesting = ""
+            return print(name, year, major, hobbies, grewUp, interesting)
 
-
-        def main():
-            print("basic information about the group")
-            Groupinfo(Charles, 4, CSCI,)
+if __name__ == "__main__":
+    main()
