@@ -16,7 +16,7 @@ def charlesW():
         year = "1998\n"
         major = "My major is CSCI\n"
         hobbies = "I enjoy several hobbies"
-        grewUp = ""
+        grewUp = "I grew up in the USA\n"
         interesting = ""
         print(name , year , major , hobbies , grewUp , interesting)
 
