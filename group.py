@@ -1,15 +1,17 @@
-def main():
 
-    def calebK(name, year, major, hobbies, grewUp, interesting):
-        name = "My name is Caleb Klaus"
-        year = "Sophmore "
-        major = "CSCI"
-        hobbies = "Biking"
-        grewUp = "California"
-        interesting = "I like to read books"
+def groupInfo():
+    print("This group is called the Starfish\nWe are learning to use GitHub\n")
+
+def calebK():
+        name = "My name is Caleb Klaus\n"
+        year = "I am a Sophmore\n"
+        major = "My major is CSCI\n"
+        hobbies = "I enjoy biking\n"
+        grewUp = "I grew up in California\n"
+        interesting = "I like to read books\n"
         print(name , year , major , hobbies , grewUp , interesting)
 
-    def charlesW(name, year, major, hobbies, grewUp, interesting):
+def charlesW():
         name = "My name is Charles Werk"
         year = "1998 "
         major = "CSCI"
@@ -17,9 +19,10 @@ def main():
         grewUp = ""
         interesting = ""
         print(name , year , major , hobbies , grewUp , interesting)
-    
-if __name__ == "__main__":
-    main()
+
+groupInfo()    
+calebK()
+charlesW()
         
 
 
