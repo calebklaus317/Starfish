@@ -1,6 +1,6 @@
 
 def groupInfo():
-    print("This group is called the Starfish\nWe are learning to use GitHub\n")
+    print("This group is called the Starfish\nWe are learning to use GitHub\nHopefully we are doing this correctly!\n")
 
 def calebK():
         name = "My name is Caleb Klaus\n"
@@ -15,9 +15,9 @@ def charlesW():
         name = "My name is Charles Werk\n"
         year = "1998\n"
         major = "My major is CSCI\n"
-        hobbies = "I enjoy several hobbies"
+        hobbies = "I enjoy several hobbies\n"
         grewUp = "I grew up in the USA\n"
-        interesting = ""
+        interesting = "I find many things interesting!\n"
         print(name , year , major , hobbies , grewUp , interesting)
 
 groupInfo()    
